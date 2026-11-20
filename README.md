@@ -5,9 +5,9 @@ Proyecto 8 de la guía: *Analizador de espectro por bandas*.
 
 | Integrante | Carné | Usuario de GitHub |
 | --- | --- | --- |
-| [Nombre 1] | [carné] | @[usuario] |
-| [Nombre 2] | [carné] | @[usuario] |
-| [Nombre 3] | [carné] | @[usuario] |
+| José Roberto Martínez Pérez | MP21075 | @robertomartínez-code |
+| Gerson Gustavo Escalante García | EG21017 | @[usuario] |
+| Alex Francisco Deleon Reyes | DR20018 | @[usuario] |
 
 ## Qué hace
 
